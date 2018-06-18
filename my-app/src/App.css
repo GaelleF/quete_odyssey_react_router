@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.content {
+  padding : 20px;
+}
+
+.nav {
+  padding: 30px; 
+  border: 1px solid #222;
+  box-shadow: 10px 5px 5px #222;
+  margin-bottom: 30px;
+}
+
+.match {
+}
+
+.navLink {
+  color: black;
+}
+
+a.selected {
+  color: red
+}
